@@ -15,4 +15,4 @@ El código utilizado en esta práctica está basado en el repositorio [crud-php-
 [3]: https://github.com/chapagain/crud-php-simple
 [4]: https://github.com/chapagain
 
-**Para hacer este proyecto final he recibido ayuda en algunos pasos**
+**Para hacer este proyecto final he recibido ayuda en algunos pasos.**
